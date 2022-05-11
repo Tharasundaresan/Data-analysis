@@ -1,1 +1,1 @@
-# Data-analysis - online faud detection
+# Data-analysis - online fraud detection
